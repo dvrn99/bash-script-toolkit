@@ -27,7 +27,7 @@ esac
 exepshuns=(
 ""
 "")
-eSize=2
+eSize=2 #update this based on your size
 
 files=()
 while IFS= read -r file; do #i dont fully understand this yet
